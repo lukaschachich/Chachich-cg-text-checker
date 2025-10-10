@@ -74,3 +74,4 @@ plt.title("Rating Distribution by Label")
 plt.show()
 
 # Notes:
+# When looking at ratings both CG and OG reviews tend to be 4 or 5 stars. Both are very similar.

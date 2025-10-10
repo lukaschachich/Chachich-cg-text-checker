@@ -11,4 +11,4 @@ def preprocess_text(text):
 
     return text.strip()  # Strip remaining whitespace around text
 
-print(preprocess_text("  This is a <b>sample</b> text with a link: https://example.com  "))  # Example usage
+print(preprocess_text("Used Preprocess <text> FunctIon"))  # Example usage
