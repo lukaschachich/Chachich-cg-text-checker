@@ -56,6 +56,7 @@ def pos_counts(text): # Function to count POS in a given text
 
 # ---------------------------
 # Add POS features to dataframe
+# ---------------------------
 
 def add_pos_features(df): 
     pos_data = df["cleaned_text"].apply(pos_counts) # apply pos_counts to each row in the cleaned_text column

@@ -11,3 +11,5 @@ CATEGORY_MAPPING = {
     "Tools and Home Improvement":  "category_Tools_and_Home_Improvement_5",
     "Toys and Games": "category_Toys_and_Games_5", 
 }
+
+# This file helps simplify imports in other parts of the webapp by centralizing constant definitions.
