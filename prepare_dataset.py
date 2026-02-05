@@ -13,7 +13,7 @@ from feature_extraction import extract_features
 # Step 1: Set up file paths
 # -----------------------------
 # Path to your raw dataset
-data_path = Path(__file__).resolve().parent / "fake-reviews.csv"
+data_path = Path(__file__).resolve().parent / "cg_sentance_dataset.csv"
 
 # Path where you’ll save the processed dataset
 output_path = Path(__file__).resolve().parent / "processed-dataset.csv"

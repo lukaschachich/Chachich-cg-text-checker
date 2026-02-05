@@ -1,10 +1,10 @@
 {
-  "test_auc_score": 0.9102049859721957,
-  "num_features": 23,
+  "test_auc_score": 0.791431455782313,
+  "num_features": 14,
   "label_mapping": {
     "OR": 1,
     "CG": 0
   },
-  "training_samples": 29111,
-  "test_samples": 7278
+  "training_samples": 84000,
+  "test_samples": 21000
 }

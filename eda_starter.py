@@ -2,7 +2,7 @@ import pandas as pd # To manipulate data
 import seaborn as sns # To visualize data
 import matplotlib.pyplot as plt # To manipulate graphics of data
 
-df = pd.read_csv("fake-reviews.csv") # load the dataset
+df = pd.read_csv("cg_sentance_dataset.csv") # load the dataset
 
 # Look at what the data looks like
 # print(df.head()) # print the first 5 rows of the dataframe
